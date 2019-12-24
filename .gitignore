@@ -1,0 +1,11 @@
+.idea/
+*.class
+*.iml
+*.kotlin_module
+
+!*.doc
+!*.docx
+
+!.gitignore
+!*.txt
+
